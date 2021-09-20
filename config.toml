@@ -1,0 +1,41 @@
+title = "KR"
+baseURL = "https://keerthi.io/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Basildon, Essex, UK"
+email = "careers @ keerthi.io"
+favicon = "/favicon.ico"
+firstName = "Keerthi"
+lastName = "Ramalingam"
+phone = "+44-740-462-first four natural numbers"
+profileImage = "img/linked-in.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showSchedule = true
+showQr = true
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "+44-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/keerthiramalingam/"
+name = "LinkedIn"
+
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

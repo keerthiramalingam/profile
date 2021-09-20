@@ -1,0 +1,18 @@
+[
+  {
+      "grouping":"Cloud & PaaS",
+      "skills":[ "Azure","Openshift", "AWS","heroku" ]
+  },
+  {
+      "grouping":"Scripting & Build Management",
+      "skills":[ "Python", "Shell", "Saltstack", "Maven", "Ant", "Azure Arm"]
+  },
+  {
+      "grouping":"ALM",
+      "skills":[ "Jira","Azure Boards", "Confluence", "Bugzilla"]
+  },
+  {
+      "grouping":"CI/CD",
+      "skills":["Jenkins", "Azure Pipelines", "TeamCity"]
+  }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "role":"Cloud and DevOps solution Architect",
+        "company":"FiServ Inc",
+        "summary":"\n- Mentored a team of 12 successfully onboarding 6 projects taking them through architecture review and automation due diligence phases.\n- SPOC for L4 non-functional support across application, network, infrastructure and Deployment disciplines.\n- Rolled out templatized application configuration management with property abstraction reducing deployment issues by 65 percent.\n- Increased resiliency by implementing end-to-end functional health check with synthetic testing enabled.\n- Implemented requirements traceability matrix with azure boards/Teams bringing down change propagation workflow timeline by 20 percent.\n- Designed and implemented database delta propagation workflows with Redgate.\n- Mentored Openstack deployment and containerizing IBM datapower saving 1.2M per annum.\n- Designed Azure environments for payments as a service. Onboarding in progress",
+        "range":"Jun 2018 – Present"
+    },
+    {
+        "role":"DevOps Manager (British Gas)",
+        "company":"Cognizant Technology Solutions, UK",
+        "summary":"\n- Built and mentored a team of 8 associates working across 15 devops tools.\n- Migration of deployments from Thoughtworks GO to Jenkins.\n- L4 level support for escalations and performance.\n- Redesigned change propagation process and merged redundant tools bringing down administration effort by a third.",
+        "range": "Jun 2016 – Jun 2018"
+    },
+    {
+        "role":"Transition Manager (Dun & Bradstreet)",
+        "company":"Cognizant Technology Solutions, India",
+        "summary":"\n- Built and mentored a team of 6 across three teams for Due diligence.\n- Designed reusable artifact templates by abstracting generic use cases across 3 teams.",
+        "range":"Jan 2016 – Jun 2016"
+    },
+    {
+        "role":"DevOps Manager (Trafigura)",
+        "company":"Cognizant Technology Solutions, India",
+        "summary":"\n- Built and mentored a team for 7 different project streams and successfully completed transition.\n- Designed and implemented node classification schematics in puppet for enterprise data center\n- Implemented client-based automation for accelerating efficiency and value generation.",
+        "range":"Sep 2015 – Jan 2016"
+    },
+    {
+        "role":"PreSales Solution Architect",
+        "company":"Cognizant Technology Solutions, India",
+        "summary":"\n- Designed and implemented Unit based pricing model for Build and deployment Management solutions.\n- Optimized delivery model with reusable knowledge banks\n- Average proposal success ratio of 35% for across small and medium proposals. \n- Created and published whitepaper on docker enablement in enterprises\n- Pioneered CD principles and best practices knowledge bank for 400+ resources.",
+        "range":"Jan 2013 – Aug 2015"
+    },
+    {
+        "role":"DevOps Engineer (Intuit Inc)",
+        "company":"Cognizant Technology Solutions, India",
+        "summary":"\n- Mined and migrated an enterprise application from WAS/Ant to Jboss/Maven.\n- Administered and managed SCM tool ecosystem.\n- Implemented Requirements traceability matrix with custom built hook scripts",
+        "range":"May 2011 – Dec 2013"
+    },
+    {
+        "role":"SCM & Process Consultant",
+        "company":"Trane Design Center (IngersollRand), India",
+        "summary":"\n- Implemented CI workflow for embedded systems with Jtag burn support\n- Proposed and propagated end to end change management process with touchpoints to Bugzilla.\n- Implemented metrics engine on Defect metrics.",
+        "range":"Feb 2009 – Apr 2011"
+    },
+    {
+        "role":"SCM Engineer",
+        "company":"Merrill Lynch, India",
+        "summary":"\n- Performance tuned the world’s largest instance of Jira bringing down license cost by 50%\n- Implemented Perl scripts to migrate from ClearQuest to Jira.\n- Designed and implemented Defect tracking/Change Management workflows for over 200 projects.",
+        "range":"Mar 2007 – Jan 2009"
+    },
+    {
+        "role":"SCM Engineer",
+        "company":"Caritor India Pvt Ltd (Keane), India",
+        "summary":"\n- Build and deployment management across a polyglot stack. \n- Version control administration, backup and recovery implementation.",
+        "range":"May 2005 – Jan 2009"
+    }
+]
