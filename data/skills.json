@@ -4,8 +4,8 @@
       "skills":[ "Azure","Openshift", "AWS","heroku" ]
   },
   {
-      "grouping":"Scripting & Build Management",
-      "skills":[ "Python", "Shell", "Saltstack", "Maven", "Ant", "Azure Arm"]
+      "grouping":"Scripting & IaaC",
+      "skills":[ "Python", "Shell", "Saltstack", "Pulumi","Terraform","Cloudify","Maven", "Ant", "Azure Arm"]
   },
   {
       "grouping":"ALM",
