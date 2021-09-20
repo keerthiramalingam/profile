@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-A seasoned seasoned DevOps/Cloud Architect with over 15 years of diverse experience xperience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+A seasoned seasoned DevOps/Cloud Architect with over 15 years of diverse experience xperience leveraging devOps, agile and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
